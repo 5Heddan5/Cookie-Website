@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    box-sizing: border-box;
+    background-color:#F5E8D3 ;
+}
+
+header {
+    width: 100%;
+    height: 5rem;
+    background-color: #D2B48C;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+
+}
+
+h2 {
+    color: #8B4513;
+    margin: 0;
+    font-size: 200%;
+}
+
+h1{
+    color: #8B4513;
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+    color: #8B4513;
+    font-size: 1rem;
+}
